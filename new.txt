@@ -1,4 +1,7 @@
 hello world
 this is my 1st change
+<<<<<<< HEAD
 ok my pull change
 11
+=======
+>>>>>>> 1fe77ffe730acd246a00883eb1724316eba600dc
